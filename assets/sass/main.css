@@ -1,0 +1,14 @@
+/*Container*/
+.contenedor {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
